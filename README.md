@@ -64,13 +64,9 @@ Modern realtime messenger platform.
 
 ## GitHub Stats
 
-<p align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=ersh04&show_icons=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ersh04&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersh04&layout=compact&theme=transparent"/>
-
-</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ersh04&layout=compact)
 
 ---
 
