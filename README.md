@@ -80,13 +80,9 @@ Website:
 
 https://www.lyrarmastudio.com/
 
-Discord:
-
-https://discord.gg/ATFttrYBnd
-
 Telegram:
 
-https://t.me/lyrarmastudio
+https://t.me/just_ersh
 
 ---
 
