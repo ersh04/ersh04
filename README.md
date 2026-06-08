@@ -45,6 +45,8 @@ Modern realtime messenger platform.
 
 ## Technologies
 
+## Technologies
+
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
@@ -52,13 +54,22 @@ Modern realtime messenger platform.
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
 
-### Tools / Platforms
+### Backend / Database
+
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+
+### Platforms / DevOps
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx)
+![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)
+
+### Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)
-![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx)
 
 ---
 
