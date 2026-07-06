@@ -13,8 +13,8 @@ Building games, backend systems, networking tools and open-source projects.
 ## About Me
 
 - 🎮 Developing **Knight of the Dungeon**
-- 🏢 Founder of **Lyrarma Studio**
-- ⚙ Working with Unity, C#, Python, Linux and Web technologies
+- 🏢 One of the founders of **Lyrarma Studio**
+- ⚙ Working with Unity, C#, C, Java, Python, Linux and Web technologies
 - 🌐 Building backend infrastructure, realtime systems and networking solutions
 - 🚀 Interested in Game Development, Backend, DevOps and System Architecture
 
