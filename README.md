@@ -43,6 +43,8 @@ Modern realtime messenger platform.
 
 ---
 
+### Technologies
+
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
