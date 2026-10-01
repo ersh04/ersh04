@@ -43,7 +43,7 @@ Modern realtime messenger platform.
 
 ---
 
-### Technologies
+## Technologies
 
 ### Languages
 
